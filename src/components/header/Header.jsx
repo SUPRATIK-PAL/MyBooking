@@ -55,7 +55,7 @@ const Header = ({ type }) => {
         }
       >
         <div className="headerList">
-          <div className="headerListItem active">
+          <div className="headerListItem">
             <FontAwesomeIcon icon={faBed} />
             <span>Stays</span>
           </div>
